@@ -1,0 +1,51 @@
+#view {
+    background: black;
+    border: solid, black;
+    height: 40px;
+    font-size: 20px;
+    color: limegreen;
+    text-align: right;
+}
+h1{
+  text-align: center;
+}
+.btn {
+    font-family: 'Share Tech Mono';
+}   
+#button {
+    width: 90%;
+    text-align: center 
+}  
+.top {
+    display: inline;
+    position: top;
+    
+}  
+.grn {
+    background: lightgreen;
+    color: brown;
+    display: inline;
+    width: 22%;
+    height: 36px;
+    font-size: 18px;
+}  
+.dgrn {
+    background: darkgreen;
+    color: white;
+    display: inline;
+    width: 22%;
+    height: 36px;
+    font-size: 18px;
+}  
+.lower {
+    display: inline;
+    position: bottom;
+    
+}  
+.operator {
+    background: black;
+    color: red;
+    height: 36px;
+    width: 22%;
+    font-size: 18px;
+}
